@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "AzureTf.BuilderActor": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ARM_SUBSCRIPTION_ID": "b9c770d1-xxxx-xxxx-xxxx-95ce1a4fac0c",
+        "ARM_TENANT_ID": "72f988bf-xxxx-xxxx-xxxx-2d7cd011db47",
+        "ARM_CLIENT_SECRET": "8ea59f03-xxxx-xxxx-xxxx-c3844a3ec7ef",
+        "ARM_CLIENT_ID": "19e2eeda-xxxx-xxxx-xxxx-7381043324cd"
+      }
+    }
+  }
+}
